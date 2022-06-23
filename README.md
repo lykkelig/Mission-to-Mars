@@ -15,4 +15,8 @@ In this project use BeautifulSoup and Splinter to scrape full-resolution images 
 * [Atomic:] Add Bootstrap 3 Components
 
 ## Summary  End Result
-* [Atomic:] 
+* [Atomic:] The following Mars Hemisphere Images were found upon running the application:
+Cerberus Hemisphere Enhanced: https://github.com/lykkelig/Mission-to-Mars/blob/main/Cerberus%20Hemisphere%20Enhanced.pdf
+Schiaparelli Hemisphere Enhanced: https://github.com/lykkelig/Mission-to-Mars/blob/main/Schiaparelli%20Hemisphere%20Enhanced.pdf
+Syrtis Major Hemisphere Enhanced: https://github.com/lykkelig/Mission-to-Mars/blob/main/Syrtis%20Major%20Hemisphere%20Enhanced.pdf
+Valles Marineris Hemisphere Enhanced: https://github.com/lykkelig/Mission-to-Mars/blob/main/Valles%20Marineris%20Hemisphere%20Enhanced.pdf
