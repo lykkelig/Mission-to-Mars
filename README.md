@@ -13,6 +13,10 @@ In this project use BeautifulSoup and Splinter to scrape full-resolution images 
 * Scrape Full-Resolution Mars Hemisphere Images and Titles
 * Update the Web App with Mars Hemisphere Images and Titles
 * Add Bootstrap 3 Components
+* To run the application:
+1. In Anaconda, open the command prompt, change the directory to where the application exists (D:\Data_Visualization_and_Analytics_Boot_Camp\10_Challenge)
+2. Start the simple webserver from the Anaconda command prompt: python -m http.server
+3. Open the application: http://localhost:8000/index.html
 
 ## Summary  End Result
 * The following Mars Hemisphere Images were found upon running the application:
