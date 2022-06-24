@@ -21,10 +21,10 @@ In this project use BeautifulSoup and Splinter to scrape full-resolution images 
 ## Summary  End Result
 * The following Mars Hemisphere Images were found upon running the application:
 * Cerberus Hemisphere Enhanced: 
-![Cerberus](https://astrogeology.usgs.gov//cache/images/f5e372a36edfa389625da6d0cc25d905_cerberus_enhanced.tif_full.jpg)
+![Cerberus Hemisphere Enhanced](https://astrogeology.usgs.gov//cache/images/f5e372a36edfa389625da6d0cc25d905_cerberus_enhanced.tif_full.jpg)
 * Schiaparelli Hemisphere Enhanced: 
-![Schiaparelli](https://github.com/lykkelig/Mission-to-Mars/blob/main/Schiaparelli%20Hemisphere%20Enhanced.pdf)
+![Schiaparelli Hemisphere Enhanced](https://astrogeology.usgs.gov//cache/images/3778f7b43bbbc89d6e3cfabb3613ba93_schiaparelli_enhanced.tif_full.jpg)
 * Syrtis Major Hemisphere Enhanced: 
-![Syrtis](https://github.com/lykkelig/Mission-to-Mars/blob/main/Syrtis%20Major%20Hemisphere%20Enhanced.pdf)
+![Syrtis Major Hemisphere Enhanced](https://astrogeology.usgs.gov//cache/images/555e6403a6ddd7ba16ddb0e471cadcf7_syrtis_major_enhanced.tif_full.jpg)
 * Valles Marineris Hemisphere Enhanced: 
-![Valles](https://github.com/lykkelig/Mission-to-Mars/blob/main/Valles%20Marineris%20Hemisphere%20Enhanced.pdf)
+![Valles Marineris Hemisphere Enhanced](https://astrogeology.usgs.gov//cache/images/b3c7c6c9138f57b4756be9b9c43e3a48_valles_marineris_enhanced.tif_full.jpg)
