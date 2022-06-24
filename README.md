@@ -21,7 +21,7 @@ In this project use BeautifulSoup and Splinter to scrape full-resolution images 
 ## Summary  End Result
 * The following Mars Hemisphere Images were found upon running the application:
 * Cerberus Hemisphere Enhanced: 
-![Cerberus](https://github.com/lykkelig/Mission-to-Mars/blob/main/Cerberus%20Hemisphere%20Enhanced.pdf)
+![Cerberus](https://astrogeology.usgs.gov//cache/images/f5e372a36edfa389625da6d0cc25d905_cerberus_enhanced.tif_full.jpg)
 * Schiaparelli Hemisphere Enhanced: 
 ![Schiaparelli](https://github.com/lykkelig/Mission-to-Mars/blob/main/Schiaparelli%20Hemisphere%20Enhanced.pdf)
 * Syrtis Major Hemisphere Enhanced: 
